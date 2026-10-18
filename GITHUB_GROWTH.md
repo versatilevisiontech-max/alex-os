@@ -1,6 +1,8 @@
 # GitHub Growth Plan
 
-Account: versatilevisiontech-max (started empty Oct 2026)
+Account: versatilevisiontech-max
+Email: versatilevisiontech@gmail.com
+Started empty Oct 2026
 
 ## Goal
 Public repos that look world-class and **help the owner daily** — templates, scripts, site kits, social systems. No confidential IP.
@@ -12,9 +14,21 @@ Public repos that look world-class and **help the owner daily** — templates, s
 ## Quality bar
 Every repo must have: clear README, license (MIT or private), 1 screenshot or sample, usable in <10 min.
 
-## First wave
-1. alex-os (this)
-2. social-pack-kit
-3. architecture-portfolio-site (Netlify)
-4. yt-shorts-scripts
-5. free-ai-workflow (how Grok/Claude/Gemini/ChatGPT split work)
+## Shipped
+1. [alex-os](https://github.com/versatilevisiontech-max/alex-os)
+2. [claude-code-hq](https://github.com/versatilevisiontech-max/claude-code-hq) — Claude Code rules and skills
+3. [architecture-portfolio-site](https://github.com/versatilevisiontech-max/architecture-portfolio-site) — Netlify portfolio
+4. [social-pack-kit](https://github.com/versatilevisiontech-max/social-pack-kit)
+5. [free-ai-workflow](https://github.com/versatilevisiontech-max/free-ai-workflow)
+
+## Upstream for Claude Code (star or install — do not fork)
+- anthropics/claude-code
+- anthropics/skills
+- obra/superpowers
+- vercel-labs/agent-skills
+- hesreallyhim/awesome-claude-code
+
+## Next, only on BUILD
+- content-calendar-md
+- yt-shorts-scripts
+- canva-brief-bank
